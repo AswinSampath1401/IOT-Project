@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPService</string>
+    <string name="title_activity_log_in">LogIn</string>
+</resources>
